@@ -1,0 +1,1072 @@
+{
+    "cropHintsAnnotation": {
+      "cropHints": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 150
+              },
+              {
+                "x": 430
+              },
+              {
+                "x": 430,
+                "y": 349
+              },
+              {
+                "x": 150,
+                "y": 349
+              }
+            ]
+          },
+          "confidence": 0.5,
+          "importanceFraction": 0.51323175
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120
+              },
+              {
+                "x": 470
+              },
+              {
+                "x": 470,
+                "y": 349
+              },
+              {
+                "x": 120,
+                "y": 349
+              }
+            ]
+          },
+          "confidence": 0.5,
+          "importanceFraction": 0.6415397
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 90
+              },
+              {
+                "x": 510
+              },
+              {
+                "x": 510,
+                "y": 349
+              },
+              {
+                "x": 90,
+                "y": 349
+              }
+            ]
+          },
+          "confidence": 0.5,
+          "importanceFraction": 0.76984775
+        }
+      ]
+    },
+    "faceAnnotations": [
+      {
+        "angerLikelihood": "VERY_UNLIKELY",
+        "blurredLikelihood": "VERY_UNLIKELY",
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 52,
+              "y": 13
+            },
+            {
+              "x": 90,
+              "y": 13
+            },
+            {
+              "x": 90,
+              "y": 58
+            },
+            {
+              "x": 52,
+              "y": 58
+            }
+          ]
+        },
+        "detectionConfidence": 0.4752762,
+        "fdBoundingPoly": {
+          "vertices": [
+            {
+              "x": 55,
+              "y": 20
+            },
+            {
+              "x": 86,
+              "y": 20
+            },
+            {
+              "x": 86,
+              "y": 54
+            },
+            {
+              "x": 55,
+              "y": 54
+            }
+          ]
+        },
+        "headwearLikelihood": "VERY_UNLIKELY",
+        "joyLikelihood": "VERY_UNLIKELY",
+        "landmarkingConfidence": 0.73143494,
+        "landmarks": [
+          {
+            "position": {
+              "x": 65.610954,
+              "y": 33.221756,
+              "z": 0.000726223
+            },
+            "type": "LEFT_EYE"
+          },
+          {
+            "position": {
+              "x": 77.57838,
+              "y": 34.021755,
+              "z": -1.023594
+            },
+            "type": "RIGHT_EYE"
+          },
+          {
+            "position": {
+              "x": 62.08212,
+              "y": 30.129734,
+              "z": 1.9901257
+            },
+            "type": "LEFT_OF_LEFT_EYEBROW"
+          },
+          {
+            "position": {
+              "x": 68.785286,
+              "y": 30.044523,
+              "z": -1.8017306
+            },
+            "type": "RIGHT_OF_LEFT_EYEBROW"
+          },
+          {
+            "position": {
+              "x": 74.22879,
+              "y": 30.726988,
+              "z": -2.3443022
+            },
+            "type": "LEFT_OF_RIGHT_EYEBROW"
+          },
+          {
+            "position": {
+              "x": 81.62929,
+              "y": 31.28479,
+              "z": 0.3261
+            },
+            "type": "RIGHT_OF_RIGHT_EYEBROW"
+          },
+          {
+            "position": {
+              "x": 71.0718,
+              "y": 33.102535,
+              "z": -2.8102696
+            },
+            "type": "MIDPOINT_BETWEEN_EYES"
+          },
+          {
+            "position": {
+              "x": 70.448746,
+              "y": 38.534264,
+              "z": -7.3695235
+            },
+            "type": "NOSE_TIP"
+          },
+          {
+            "position": {
+              "x": 70.24689,
+              "y": 43.59834,
+              "z": -5.7785645
+            },
+            "type": "UPPER_LIP"
+          },
+          {
+            "position": {
+              "x": 70.01143,
+              "y": 47.91032,
+              "z": -5.840453
+            },
+            "type": "LOWER_LIP"
+          },
+          {
+            "position": {
+              "x": 65.52831,
+              "y": 45.33017,
+              "z": -2.6382194
+            },
+            "type": "MOUTH_LEFT"
+          },
+          {
+            "position": {
+              "x": 75.13672,
+              "y": 45.793407,
+              "z": -3.4476879
+            },
+            "type": "MOUTH_RIGHT"
+          },
+          {
+            "position": {
+              "x": 70.10137,
+              "y": 45.439777,
+              "z": -5.2942653
+            },
+            "type": "MOUTH_CENTER"
+          },
+          {
+            "position": {
+              "x": 73.56786,
+              "y": 40.565384,
+              "z": -3.6687145
+            },
+            "type": "NOSE_BOTTOM_RIGHT"
+          },
+          {
+            "position": {
+              "x": 67.52562,
+              "y": 40.365208,
+              "z": -3.1836555
+            },
+            "type": "NOSE_BOTTOM_LEFT"
+          },
+          {
+            "position": {
+              "x": 70.42859,
+              "y": 40.94496,
+              "z": -5.270971
+            },
+            "type": "NOSE_BOTTOM_CENTER"
+          },
+          {
+            "position": {
+              "x": 65.53656,
+              "y": 32.1082,
+              "z": -0.42796302
+            },
+            "type": "LEFT_EYE_TOP_BOUNDARY"
+          },
+          {
+            "position": {
+              "x": 68.0039,
+              "y": 33.508583,
+              "z": -0.24537337
+            },
+            "type": "LEFT_EYE_RIGHT_CORNER"
+          },
+          {
+            "position": {
+              "x": 65.514694,
+              "y": 34.05176,
+              "z": -0.2870164
+            },
+            "type": "LEFT_EYE_BOTTOM_BOUNDARY"
+          },
+          {
+            "position": {
+              "x": 63.307213,
+              "y": 33.244263,
+              "z": 1.2399706
+            },
+            "type": "LEFT_EYE_LEFT_CORNER"
+          },
+          {
+            "position": {
+              "x": 77.76693,
+              "y": 32.923553,
+              "z": -1.4585401
+            },
+            "type": "RIGHT_EYE_TOP_BOUNDARY"
+          },
+          {
+            "position": {
+              "x": 79.93843,
+              "y": 34.292664,
+              "z": -0.19585693
+            },
+            "type": "RIGHT_EYE_RIGHT_CORNER"
+          },
+          {
+            "position": {
+              "x": 77.60674,
+              "y": 34.88402,
+              "z": -1.347566
+            },
+            "type": "RIGHT_EYE_BOTTOM_BOUNDARY"
+          },
+          {
+            "position": {
+              "x": 75.22768,
+              "y": 33.98964,
+              "z": -0.85037744
+            },
+            "type": "RIGHT_EYE_LEFT_CORNER"
+          },
+          {
+            "position": {
+              "x": 65.38853,
+              "y": 28.939651,
+              "z": -0.39885664
+            },
+            "type": "LEFT_EYEBROW_UPPER_MIDPOINT"
+          },
+          {
+            "position": {
+              "x": 77.950066,
+              "y": 29.961021,
+              "z": -1.5212039
+            },
+            "type": "RIGHT_EYEBROW_UPPER_MIDPOINT"
+          },
+          {
+            "position": {
+              "x": 57.85326,
+              "y": 39.43991,
+              "z": 13.770687
+            },
+            "type": "LEFT_EAR_TRAGION"
+          },
+          {
+            "position": {
+              "x": 85.37371,
+              "y": 40.692577,
+              "z": 11.671342
+            },
+            "type": "RIGHT_EAR_TRAGION"
+          },
+          {
+            "position": {
+              "x": 71.348404,
+              "y": 30.265333,
+              "z": -2.4508731
+            },
+            "type": "FOREHEAD_GLABELLA"
+          },
+          {
+            "position": {
+              "x": 69.72775,
+              "y": 54.09839,
+              "z": -5.4717283
+            },
+            "type": "CHIN_GNATHION"
+          },
+          {
+            "position": {
+              "x": 60.04958,
+              "y": 48.9898,
+              "z": 6.8280873
+            },
+            "type": "CHIN_LEFT_GONION"
+          },
+          {
+            "position": {
+              "x": 81.29565,
+              "y": 50.909397,
+              "z": 4.953285
+            },
+            "type": "CHIN_RIGHT_GONION"
+          },
+          {
+            "position": {
+              "x": 62.90596,
+              "y": 40.585377,
+              "z": -0.26365876
+            },
+            "type": "LEFT_CHEEK_CENTER"
+          },
+          {
+            "position": {
+              "x": 79.09345,
+              "y": 41.563072,
+              "z": -1.6551627
+            },
+            "type": "RIGHT_CHEEK_CENTER"
+          }
+        ],
+        "panAngle": -4.9881644,
+        "rollAngle": 4.944413,
+        "sorrowLikelihood": "VERY_UNLIKELY",
+        "surpriseLikelihood": "VERY_UNLIKELY",
+        "tiltAngle": 10.789024,
+        "underExposedLikelihood": "VERY_UNLIKELY"
+      }
+    ],
+    "imagePropertiesAnnotation": {
+      "cropHints": [
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 150
+              },
+              {
+                "x": 430
+              },
+              {
+                "x": 430,
+                "y": 349
+              },
+              {
+                "x": 150,
+                "y": 349
+              }
+            ]
+          },
+          "confidence": 0.5,
+          "importanceFraction": 0.51323175
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120
+              },
+              {
+                "x": 470
+              },
+              {
+                "x": 470,
+                "y": 349
+              },
+              {
+                "x": 120,
+                "y": 349
+              }
+            ]
+          },
+          "confidence": 0.5,
+          "importanceFraction": 0.6415397
+        },
+        {
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 90
+              },
+              {
+                "x": 510
+              },
+              {
+                "x": 510,
+                "y": 349
+              },
+              {
+                "x": 90,
+                "y": 349
+              }
+            ]
+          },
+          "confidence": 0.5,
+          "importanceFraction": 0.76984775
+        }
+      ],
+      "dominantColors": {
+        "colors": [
+          {
+            "color": {
+              "blue": 44,
+              "green": 74,
+              "red": 107
+            },
+            "hex": "6B4A2C",
+            "percent": 23.324671782487513,
+            "percentRounded": 23,
+            "pixelFraction": 0.016334282,
+            "rgb": "107, 74,\n 44",
+            "score": 0.21882129
+          },
+          {
+            "color": {
+              "blue": 62,
+              "green": 107,
+              "red": 154
+            },
+            "hex": "9A6B3E",
+            "percent": 18.098666084359856,
+            "percentRounded": 18,
+            "pixelFraction": 0.016619183,
+            "rgb": "154, 107,\n 62",
+            "score": 0.16979332
+          },
+          {
+            "color": {
+              "blue": 82,
+              "green": 88,
+              "red": 96
+            },
+            "hex": "605852",
+            "percent": 8.567410451621267,
+            "percentRounded": 9,
+            "pixelFraction": 0.06039886,
+            "rgb": "96, 88,\n 82",
+            "score": 0.080375485
+          },
+          {
+            "color": {
+              "blue": 37,
+              "green": 75,
+              "red": 117
+            },
+            "hex": "754B25",
+            "percent": 17.629973201195224,
+            "percentRounded": 18,
+            "pixelFraction": 0.008736942,
+            "rgb": "117, 75,\n 37",
+            "score": 0.16539626
+          },
+          {
+            "color": {
+              "blue": 54,
+              "green": 77,
+              "red": 101
+            },
+            "hex": "654D36",
+            "percent": 7.018188425356022,
+            "percentRounded": 7,
+            "pixelFraction": 0.024691358,
+            "rgb": "101, 77,\n 54",
+            "score": 0.0658414
+          },
+          {
+            "color": {
+              "blue": 112,
+              "green": 118,
+              "red": 125
+            },
+            "hex": "7D7670",
+            "percent": 6.782181808189271,
+            "percentRounded": 7,
+            "pixelFraction": 0.4805318,
+            "rgb": "125, 118,\n 112",
+            "score": 0.063627295
+          },
+          {
+            "color": {
+              "blue": 29,
+              "green": 53,
+              "red": 82
+            },
+            "hex": "52351D",
+            "percent": 6.064926477192257,
+            "percentRounded": 6,
+            "pixelFraction": 0.010446344,
+            "rgb": "82, 53,\n 29",
+            "score": 0.056898337
+          },
+          {
+            "color": {
+              "blue": 92,
+              "green": 112,
+              "red": 134
+            },
+            "hex": "86705C",
+            "percent": 5.888265461127279,
+            "percentRounded": 6,
+            "pixelFraction": 0.053466287,
+            "rgb": "134, 112,\n 92",
+            "score": 0.055240985
+          },
+          {
+            "color": {
+              "blue": 34,
+              "green": 57,
+              "red": 81
+            },
+            "hex": "513922",
+            "percent": 4.043767216926845,
+            "percentRounded": 4,
+            "pixelFraction": 0.012155745,
+            "rgb": "81, 57,\n 34",
+            "score": 0.037936755
+          },
+          {
+            "color": {
+              "blue": 75,
+              "green": 106,
+              "red": 142
+            },
+            "hex": "8E6A4B",
+            "percent": 2.5819490915444585,
+            "percentRounded": 3,
+            "pixelFraction": 0.005223172,
+            "rgb": "142, 106,\n 75",
+            "score": 0.024222653
+          }
+        ]
+      }
+    },
+    "labelAnnotations": [
+      {
+        "description": "Footwear",
+        "mid": "/m/09j5n",
+        "score": 0.982568,
+        "topicality": 0.982568
+      },
+      {
+        "description": "Suit trousers",
+        "mid": "/m/03cvmmd",
+        "score": 0.97943896,
+        "topicality": 0.97943896
+      },
+      {
+        "description": "Joint",
+        "mid": "/m/01dvt1",
+        "score": 0.9761165,
+        "topicality": 0.9761165
+      },
+      {
+        "description": "Head",
+        "mid": "/m/04hgtk",
+        "score": 0.9740641,
+        "topicality": 0.9740641
+      },
+      {
+        "description": "Shoe",
+        "mid": "/m/06rrc",
+        "score": 0.9568227,
+        "topicality": 0.9568227
+      },
+      {
+        "description": "Fashion",
+        "mid": "/m/032tl",
+        "score": 0.8871846,
+        "topicality": 0.8871846
+      },
+      {
+        "description": "Sleeve",
+        "mid": "/m/062581",
+        "score": 0.8724505,
+        "topicality": 0.8724505
+      },
+      {
+        "description": "Gesture",
+        "mid": "/m/0244x1",
+        "score": 0.85260487,
+        "topicality": 0.85260487
+      },
+      {
+        "description": "Grey",
+        "mid": "/m/036k5h",
+        "score": 0.8416182,
+        "topicality": 0.8416182
+      },
+      {
+        "description": "Collar",
+        "mid": "/m/091410",
+        "score": 0.83199126,
+        "topicality": 0.83199126
+      },
+      {
+        "description": "Fashion design",
+        "mid": "/m/02qqd4n",
+        "score": 0.7812492,
+        "topicality": 0.7812492
+      },
+      {
+        "description": "Blazer",
+        "mid": "/m/04xz_5",
+        "score": 0.7805298,
+        "topicality": 0.7805298
+      },
+      {
+        "description": "Art",
+        "mid": "/m/0jjw",
+        "score": 0.7732083,
+        "topicality": 0.7732083
+      },
+      {
+        "description": "Team",
+        "mid": "/m/011l78",
+        "score": 0.7724304,
+        "topicality": 0.7724304
+      },
+      {
+        "description": "Event",
+        "mid": "/m/081pkj",
+        "score": 0.7435519,
+        "topicality": 0.7435519
+      },
+      {
+        "description": "Uniform",
+        "mid": "/m/09jfs",
+        "score": 0.7119532,
+        "topicality": 0.7119532
+      },
+      {
+        "description": "Job",
+        "mid": "/m/04115t2",
+        "score": 0.7003065,
+        "topicality": 0.7003065
+      },
+      {
+        "description": "Formal wear",
+        "mid": "/m/02w3_2",
+        "score": 0.6429688,
+        "topicality": 0.6429688
+      },
+      {
+        "description": "Conversation",
+        "mid": "/m/01h8n0",
+        "score": 0.6302416,
+        "topicality": 0.6302416
+      },
+      {
+        "description": "Knee",
+        "mid": "/m/019swr",
+        "score": 0.616284,
+        "topicality": 0.616284
+      },
+      {
+        "description": "Employment",
+        "mid": "/m/01tqrk",
+        "score": 0.61559606,
+        "topicality": 0.61559606
+      },
+      {
+        "description": "White-collar worker",
+        "mid": "/m/01kq3x",
+        "score": 0.61350375,
+        "topicality": 0.61350375
+      },
+      {
+        "description": "Pocket",
+        "mid": "/m/025rhd",
+        "score": 0.59735054,
+        "topicality": 0.59735054
+      },
+      {
+        "description": "Collaboration",
+        "mid": "/m/01s560",
+        "score": 0.59511703,
+        "topicality": 0.59511703
+      },
+      {
+        "description": "Visual arts",
+        "mid": "/m/0p9xx",
+        "score": 0.5830233,
+        "topicality": 0.5830233
+      },
+      {
+        "description": "Brand",
+        "mid": "/m/01cd9",
+        "score": 0.5463813,
+        "topicality": 0.5463813
+      },
+      {
+        "description": "Belt",
+        "mid": "/m/0176mf",
+        "score": 0.5416164,
+        "topicality": 0.5416164
+      },
+      {
+        "description": "Suit",
+        "mid": "/m/01xyhv",
+        "score": 0.5319713,
+        "topicality": 0.5319713
+      },
+      {
+        "description": "Denim",
+        "mid": "/m/0hgr6",
+        "score": 0.53063446,
+        "topicality": 0.53063446
+      },
+      {
+        "description": "T-shirt",
+        "mid": "/m/013s93",
+        "score": 0.5244124,
+        "topicality": 0.5244124
+      }
+    ],
+    "localizedObjectAnnotations": [
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.2908707,
+              "y": 0.447536
+            },
+            {
+              "x": 0.42093202,
+              "y": 0.447536
+            },
+            {
+              "x": 0.42093202,
+              "y": 0.8950191
+            },
+            {
+              "x": 0.2908707,
+              "y": 0.8950191
+            }
+          ]
+        },
+        "mid": "/m/07mhn",
+        "name": "Pants",
+        "score": 0.9199636
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.04253124,
+              "y": 0.44610056
+            },
+            {
+              "x": 0.1607111,
+              "y": 0.44610056
+            },
+            {
+              "x": 0.1607111,
+              "y": 0.88795716
+            },
+            {
+              "x": 0.04253124,
+              "y": 0.88795716
+            }
+          ]
+        },
+        "mid": "/m/07mhn",
+        "name": "Pants",
+        "score": 0.907987
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.78951293,
+              "y": 0.49407622
+            },
+            {
+              "x": 0.9355317,
+              "y": 0.49407622
+            },
+            {
+              "x": 0.9355317,
+              "y": 0.6892356
+            },
+            {
+              "x": 0.78951293,
+              "y": 0.6892356
+            }
+          ]
+        },
+        "mid": "/m/01bfm9",
+        "name": "Shorts",
+        "score": 0.8730221
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.03253823,
+              "y": 0.17471458
+            },
+            {
+              "x": 0.18876891,
+              "y": 0.17471458
+            },
+            {
+              "x": 0.18876891,
+              "y": 0.53188825
+            },
+            {
+              "x": 0.03253823,
+              "y": 0.53188825
+            }
+          ]
+        },
+        "mid": "/m/01xygc",
+        "name": "Coat",
+        "score": 0.86318135
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.767396,
+              "y": 0.024987662
+            },
+            {
+              "x": 0.96828365,
+              "y": 0.024987662
+            },
+            {
+              "x": 0.96828365,
+              "y": 0.9862759
+            },
+            {
+              "x": 0.767396,
+              "y": 0.9862759
+            }
+          ]
+        },
+        "mid": "/m/01g317",
+        "name": "Person",
+        "score": 0.860729
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.26811007,
+              "y": 0.058208268
+            },
+            {
+              "x": 0.4540844,
+              "y": 0.058208268
+            },
+            {
+              "x": 0.4540844,
+              "y": 0.97967625
+            },
+            {
+              "x": 0.26811007,
+              "y": 0.97967625
+            }
+          ]
+        },
+        "mid": "/m/01g317",
+        "name": "Person",
+        "score": 0.84591275
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.021023212,
+              "y": 0.04045322
+            },
+            {
+              "x": 0.18541439,
+              "y": 0.04045322
+            },
+            {
+              "x": 0.18541439,
+              "y": 0.97688514
+            },
+            {
+              "x": 0.021023212,
+              "y": 0.97688514
+            }
+          ]
+        },
+        "mid": "/m/01g317",
+        "name": "Person",
+        "score": 0.8252224
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.5217047,
+              "y": 0.06052879
+            },
+            {
+              "x": 0.6831928,
+              "y": 0.06052879
+            },
+            {
+              "x": 0.6831928,
+              "y": 0.98290586
+            },
+            {
+              "x": 0.5217047,
+              "y": 0.98290586
+            }
+          ]
+        },
+        "mid": "/m/01g317",
+        "name": "Person",
+        "score": 0.8181748
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.7810808,
+              "y": 0.15772757
+            },
+            {
+              "x": 0.94775873,
+              "y": 0.15772757
+            },
+            {
+              "x": 0.94775873,
+              "y": 0.5237642
+            },
+            {
+              "x": 0.7810808,
+              "y": 0.5237642
+            }
+          ]
+        },
+        "mid": "/m/03gx245",
+        "name": "Top",
+        "score": 0.77784157
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.5355876,
+              "y": 0.24701822
+            },
+            {
+              "x": 0.6786434,
+              "y": 0.24701822
+            },
+            {
+              "x": 0.6786434,
+              "y": 0.7163029
+            },
+            {
+              "x": 0.5355876,
+              "y": 0.7163029
+            }
+          ]
+        },
+        "mid": "/m/01d40f",
+        "name": "Dress",
+        "score": 0.76139134
+      },
+      {
+        "boundingPoly": {
+          "normalizedVertices": [
+            {
+              "x": 0.27688155,
+              "y": 0.17671655
+            },
+            {
+              "x": 0.44231412,
+              "y": 0.17671655
+            },
+            {
+              "x": 0.44231412,
+              "y": 0.48103225
+            },
+            {
+              "x": 0.27688155,
+              "y": 0.48103225
+            }
+          ]
+        },
+        "mid": "/m/01xygc",
+        "name": "Coat",
+        "score": 0.7515864
+      }
+    ],
+    "safeSearchAnnotation": {
+      "adult": "VERY_UNLIKELY",
+      "medical": "VERY_UNLIKELY",
+      "racy": "VERY_UNLIKELY",
+      "spoof": "VERY_UNLIKELY",
+      "violence": "VERY_UNLIKELY"
+    }
+  }
