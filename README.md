@@ -1,8 +1,7 @@
-# NSC-RailCrossing
+## NSC-RailCrossing
 
 The following is the original code to count the number of vehicles in an image based on the json output from the Google API.
-
-# Importing the json module
+\# Importing the json module
 import json
 
 # Opening the json module and saving the data as Python dictionary
